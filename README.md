@@ -10,4 +10,4 @@ Link:  https://www.linkedin.com/in/emmanuel-martinez-5850b9390/
 
 ### Programming language
 right about now I'm learning to code in C++ or python as I've think thats what makes half the digital software (or software engines) also web-browsers,
-and the other programming language i'm interested in is Lua as its free and opensource.
+and the other programming language i'm interested in is Lua as its free and open-source.
